@@ -28,8 +28,8 @@ The notebooks and code can be used with other EPD-like datasets by adapting file
 
 If you use this code in academic work, please cite the associated article:
 
-> Neupane et.al, “Quantifying the Impact of Data Quality on Machine Learning Prediction : A Large-Scale Study of Construction Product Environmental Declarations,” *International Journal of Life Cycle Assessment*, 2026.
+> To be added after paper publication
 
-You can also cite the repository directly, for example:
+You can cite the repository directly, for example:
 
 > Bishwash Neupane (2026). *EPD-ML-DataQuality: Code for data quality assessment and ML modelling with EPD datasets*. GitHub repository, [https://github.com/<b2neupane>/<your-repo>](https://github.com/b2neupane/EPD-ML-Data-Quality-Assessment).
