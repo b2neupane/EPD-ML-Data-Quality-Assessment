@@ -32,4 +32,4 @@ If you use this code in academic work, please cite the associated article:
 
 You can also cite the repository directly, for example:
 
-> Bishwash Neupane (2026). *EPD-ML-DataQuality: Code for data quality assessment and ML modelling with EPD datasets*. GitHub repository, https://github.com/<b2neupane>/<your-repo>.
+> Bishwash Neupane (2026). *EPD-ML-DataQuality: Code for data quality assessment and ML modelling with EPD datasets*. GitHub repository, [https://github.com/<b2neupane>/<your-repo>](https://github.com/b2neupane/EPD-ML-Data-Quality-Assessment).
