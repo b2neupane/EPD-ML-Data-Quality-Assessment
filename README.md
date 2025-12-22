@@ -20,7 +20,7 @@ Adjust input/output paths inside the notebooks to match your local directory str
 
 ## Data
 
-The original EPD dataset used in the study is commercial data accessed via the ECO Platform network  and cannot be redistributed in this repository. Users who wish to reproduce the analysis should obtain similar EPD data directly from ECO Platform under the platform’s terms and conditions.
+The original EPD dataset used in the study is commercial data accessed via the ECO Platform network using API and cannot be redistributed in this repository. Users who wish to reproduce the analysis should obtain similar EPD data directly from ECO Platform under the platform’s terms and conditions.
 
 The notebooks and code can be used with other EPD-like datasets by adapting file paths and field names.
 
