@@ -1,7 +1,7 @@
 # EPD-ML-Data-Quality-Assessment
 Python code and Jupyter notebooks for data preprocessing, harmonization and machine learning modelling on large-scale Environmental Product Declaration (EPD) datasets, used to assess how EPD data quality affects global warming potential (GWP) prediction performance.
 
-## Project overview
+## Overview
 
 This repository implements the full workflow used in the associated research article-"Quantifying the Impact of Data Quality on Machine Learning Prediction : A Large-Scale Study of Construction Product Environmental Declarations" , from web scraping EPDs from ECO Platform, XML parsing, exploratory analysis and harmonization, through to ML model training, hyperparameter tuning and external validation across three data-quality scenarios (A–C).
 
