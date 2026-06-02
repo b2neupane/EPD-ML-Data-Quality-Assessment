@@ -24,7 +24,7 @@ The notebooks and code can be used with other EPD-like datasets by adapting file
 
 If you use this code in academic work, please cite the associated article:
 
-> To be added after paper publication
+> Neupane, B., Hilloulin, B., Chenouard, R. et al. Quantifying the impact of data quality on machine learning prediction: a large-scale study of construction product environmental declarations. Int J Life Cycle Assess 31, 97 (2026). https://doi.org/10.1007/s11367-026-02676-3 
 
 You can cite the repository directly, for example:
 
